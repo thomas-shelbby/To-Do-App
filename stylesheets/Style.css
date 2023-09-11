@@ -1,0 +1,32 @@
+#img{
+    border-radius: 200px!important;
+}
+#b{
+    border-top: 2px solid red;
+}
+#ca{
+    border-top: 2px solid red !important;
+}
+#img2{
+    border-radius: 100px;
+}
+#pokm{
+    margin: 0;
+    padding: 0;
+}
+.text-body-tertiary{
+    float:left;
+    padding: 7px;
+    margin: 5px;
+    word-spacing: 30px;
+    border-radius: 13px;
+    background: rgb(224, 222, 222);
+}
+#lkl{
+    margin: 5px;
+}
+.plo{
+    float: left;
+    font-size: 20px;
+    margin: 5px;
+}
